@@ -32,9 +32,9 @@
 	      " approved by but not affiliated with the University of
 San Francisco.")
            (p "University of San Francisco and its logo are registered
-trademarks of the regents of the University of San Francisco in the
-U.S. and other countries.  All other product names, logos, and brands
-are property of their respective owners.")))
+trademarks of the board of trustees of the University of San Francisco
+in the U.S. and other countries.  All other product names, logos, and
+brands are property of their respective owners.")))
 
 (define (stylesheet name)
   `(link (@ (rel "stylesheet")
